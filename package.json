@@ -13,6 +13,7 @@
   "author": "Ivan Zhuravlev <i.zhuravlev@gmail.com>",
   "license": "ISC",
   "dependencies": {
+    "bcrypt": "^5.0.0",
     "config": "^3.3.2",
     "express": "^4.17.1",
     "mongoose": "^5.10.13"
